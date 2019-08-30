@@ -3,7 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://D:/project" />
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://D:/python3" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (python3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
