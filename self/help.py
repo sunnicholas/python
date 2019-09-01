@@ -1,1 +1,1 @@
-help(print)
+# help('sys') python2 无法使用help
